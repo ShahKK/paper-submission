@@ -1,4 +1,4 @@
-# Group 20's Paper Submission System for a Journal
+#Paper Submission System for a Journal
 
 **Start the program by running the _JournalSubmissionSystem_ jar file.**
 
@@ -9,10 +9,10 @@
 To access each account and view its functionality, enter one the following usernames and passwords,
 
   - Author:
-    - usernames: lucas.delvillar@ucalgary.ca, ahmed.zahran1@ucalgary.ca, shahmir.khan@ucalgary.ca
+    - usernames: shahmir.khan@ucalgary.ca
     - password: test
   - Reviewer:
-    - usernames: anas.alawa@ucalgary.ca, matthew.cox@ucalgary.ca, ren.xu@ucalgary.ca
+    - usernames: anas.alawa@ucalgary.ca
     - password: test
   - Admin:
     - username: admin
